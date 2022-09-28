@@ -1,2 +1,3 @@
 crearting new repository
 and cloning,pushing
+addd 
